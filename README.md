@@ -4,11 +4,9 @@
 
 > Non-exhaustive list of my ***Fortran*** releases at *GitHub*.
 
-## Fortran Projects
+## Linux
 
-### Linux
-
-#### bashconf
+### bashconf
 
 ![Project Status BashConf](https://img.shields.io/static/v1?label=Project%20Status&message=Complete&color=success) ![Repository Status BashConf](https://img.shields.io/static/v1?label=Repository%20Status&message=Complete&color=success) ![Condition BashConf](https://img.shields.io/static/v1?label=Condition&message=Good&color=success)
 
@@ -20,7 +18,7 @@ Link|Description
 [Release Repo](https://lateralus138.github.io/bashconf)|Official repository site.
 [Release Compiled](https://github.com/Lateralus138/bashconf/releases/tag/Continuous)|Official `binary` and `AppImage` releases.
 
-#### Apt-Upgrade
+### Apt-Upgrade
 
 ![Project Status AptUpgrade](https://img.shields.io/static/v1?label=Project%20Status&message=Partial&color=yellow)<small>[1a](#note1a)</small> ![Repository Status BashConf](https://img.shields.io/static/v1?label=Repository%20Status&message=Partial&color=yellow)<small>[1b](#note1b)</small> ![Condition BashConf](https://img.shields.io/static/v1?label=Condition&message=Good&color=success)
 
@@ -31,7 +29,7 @@ Link|Description
 [Release Page](https://github.com/Lateralus138/Apt-Upgrade)|Official release page.
 [Release Repo](https://lateralus138.github.io/Apt-Upgrad/)|Official repository site.
 
-##### Notes
+#### Notes
 
 <a id="note1a"></a><a id="note1b"></a>
 
@@ -40,8 +38,8 @@ Link|Description
 <small>1a<small>|Needs an `AppImage`.
 <small>1b<small>|Needs **Action Build** and more information after `AppImage` created.
 
-### Windows
+## Windows
 
-### Mac
+## Mac
 
-### Cross Platform
+## Cross Platform
