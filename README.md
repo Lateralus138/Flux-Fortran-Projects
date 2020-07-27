@@ -4,6 +4,8 @@
 
 > Non-exhaustive list of my ***Fortran*** releases at *GitHub*.
 
+<a id="linux"></a>
+
 ## Linux
 
 ### Bash Conf
@@ -38,13 +40,19 @@ Link|Description
 <sup>1a<sup>|Needs an `AppImage`.
 <sup>1b<sup>|Needs **Action Build** and more information after `AppImage` created.
 
+<a id="windows"></a>
+
 ## Windows
 
 ### Nothing yet!
 
+<a id="mac"></a>
+
 ## Mac
 
 ### Nothing yet!
+
+<a id="crossplatform"></a>
 
 ## Cross Platform
 
