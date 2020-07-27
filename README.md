@@ -22,7 +22,7 @@ Link|Description
 
 #### Apt-Upgrade
 
-![Project Status AptUpgrade](https://img.shields.io/static/v1?label=Project%20Status&message=Partial&color=yellow)<sup style="position: relative; top: -15px;vertical-align: top;">[1a](#note1a)</sup> ![Repository Status BashConf](https://img.shields.io/static/v1?label=Repository%20Status&message=Partial&color=yellow)<sup style="position: relative; top: -15px;vertical-align: top;">[1b](#note1b)</sup> ![Condition BashConf](https://img.shields.io/static/v1?label=Condition&message=Good&color=success)
+![Project Status AptUpgrade](https://img.shields.io/static/v1?label=Project%20Status&message=Partial&color=yellow)<small>[1a](#note1a)</small> ![Repository Status BashConf](https://img.shields.io/static/v1?label=Repository%20Status&message=Partial&color=yellow)<small>[1b](#note1b)</small> ![Condition BashConf](https://img.shields.io/static/v1?label=Condition&message=Good&color=success)
 
 > A nice little wrapper cli utility to help update and upgrade programs installed with the APT package manager with error handling and color output.
 
@@ -37,8 +37,8 @@ Link|Description
 
 &#35;|Note
 ---:|:---
-1a|Needs an `AppImage`.
-1b|Needs **Action Build** and more information after `AppImage` created.
+<small>1a<small>|Needs an `AppImage`.
+<small>1b<small>|Needs **Action Build** and more information after `AppImage` created.
 
 ### Windows
 
