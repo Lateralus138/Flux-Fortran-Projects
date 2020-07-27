@@ -10,6 +10,8 @@
 
 #### bashconf
 
+![Status BashConf](https://img.shields.io/static/v1?label=Status&message=Complete&color=success) ![Condition BashConf](https://img.shields.io/static/v1?label=Condition&message=Good&color=success)
+
 > Create .bash_<NAME> configuration files in the user's directory if they don't exist with some error/exit codes.
 
 Link|Description
