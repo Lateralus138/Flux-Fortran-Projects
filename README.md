@@ -10,15 +10,35 @@
 
 #### bashconf
 
-![Status BashConf](https://img.shields.io/static/v1?label=Status&message=Complete&color=success) ![Condition BashConf](https://img.shields.io/static/v1?label=Condition&message=Good&color=success)
+![Project Status BashConf](https://img.shields.io/static/v1?label=Project%20Status&message=Complete&color=success) ![Repository Status BashConf](https://img.shields.io/static/v1?label=Repository%20Status&message=Complete&color=success) ![Condition BashConf](https://img.shields.io/static/v1?label=Condition&message=Good&color=success)
 
 > Create .bash_<NAME> configuration files in the user's directory if they don't exist with some error/exit codes.
 
 Link|Description
 :---|:---:
-[Release Page](https://lateralus138.github.io/bashconf/)|Official release page.
-[Release Repo](https://github.com/Lateralus138/bashconf)|Official repository site.
+[Release Page](https://github.com/Lateralus138/bashconf)|Official release page.
+[Release Repo](https://lateralus138.github.io/bashconf)|Official repository site.
 [Release Compiled](https://github.com/Lateralus138/bashconf/releases/tag/Continuous)|Official `binary` and `AppImage` releases.
+
+#### Apt-Upgrade
+
+![Project Status AptUpgrade](https://img.shields.io/static/v1?label=Project%20Status&message=Partial&color=yellow)<sup style="position: relative; top: -15px;vertical-align: top;">[1a](#note1a)</sup> ![Repository Status BashConf](https://img.shields.io/static/v1?label=Repository%20Status&message=Partial&color=yellow)<sup style="position: relative; top: -15px;vertical-align: top;">[1b](#note1b)</sup> ![Condition BashConf](https://img.shields.io/static/v1?label=Condition&message=Good&color=success)
+
+> A nice little wrapper cli utility to help update and upgrade programs installed with the APT package manager with error handling and color output.
+
+Link|Description
+:---|:---:
+[Release Page](https://github.com/Lateralus138/Apt-Upgrade)|Official release page.
+[Release Repo](https://lateralus138.github.io/Apt-Upgrad/)|Official repository site.
+
+##### Notes
+
+<a id="note1a"></a><a id="note1b"></a>
+
+&#35;|Note
+---:|:---
+1a|Needs an `AppImage`.
+1b|Needs **Action Build** and more information after `AppImage` created.
 
 ### Windows
 
